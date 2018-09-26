@@ -33,12 +33,12 @@ technological-heritage-desc:
   es: Todo nuestro trabajo es de todos y forma parte del Patrimonio Tecnológico de la Humanidad
 
 academicas:
-  en: Académicas
-  es: Académicas
+  en: CIT
+  es: CIT
 
 academicas-desc:
-  en: Matemáticas Académicas 4ºESO
-  es: Matemáticas Académicas 4ºESO
+  en: Ciencias y Tecnología
+  es: Ciencias y Tecnología
 
 ejercicios:
   en: Ejercicios
@@ -90,12 +90,12 @@ blockscad-desc:
 
 
 aplicadas:
-  en: Aplicadas
-  es: Aplicadas
+  en: CSH
+  es: CSH
 
 aplicadas-desc:
-  en: Matemáticas Aplicadas 4ºESO
-  es: Matemáticas Aplicadas 4ºESO
+  en: Ciencias Sociales
+  es: Ciencias Sociales
 
 miscelanea:
   en: Miscelánea
