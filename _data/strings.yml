@@ -73,12 +73,12 @@ libro2-desc:
   es: Libro de la asignatura
 
 solucinario:
-  en: Libro
-  es: Libro
+  en: Solucionario
+  es: Solucionario
 
 solucionario-desc:
-  en: Libro de la asignatura
-  es: Libro de la asignatura
+  en: Soluciones a los ejercicios del libro
+  es: Soluciones a los ejercicios del libro
 
 otros:
   en: Otros
