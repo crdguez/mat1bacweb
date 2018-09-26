@@ -57,12 +57,20 @@ resumenes-desc:
   es: Resúmenes de las diferentes unidades
 
 libro:
-  en: Book
-  es: Libro
+  en: Apuntes
+  es: Apuntes
 
 libro-desc:
-  en: Libro de texto digital
-  es: Libro de texto digital
+  en: Apuntes de la asignatura
+  es: Apuntes de la asignatura
+  
+libro2:
+  en: Libro
+  es: Libro
+
+libro2-desc:
+  en: Libro de la asignatura
+  es: Libro de la asignatura
 
 otros:
   en: Otros
