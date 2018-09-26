@@ -1,8 +1,8 @@
-url: http://FPGAwars.github.io
+url: https://crdguez.github.io/mat1bacweb/
 baseurl:
 
 # Site settings
-title: Matemáticas 4º ESO
+title: Matemáticas 1º Bachillerato
 email: rodriguezjasoc@iespedrocerrada.org
 description: Dep. de Matemáticas (IES Pedro Cerrada)
 
@@ -29,6 +29,6 @@ collections:
 
 # Menu
 menu:
-  - academicas
-  - aplicadas
+  - Ciencias y tecnología
+  - Ciencias Sociales
   - miscelanea
